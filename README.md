@@ -1,1 +1,1 @@
-# Race-game
+# This repository contains game about racing.
